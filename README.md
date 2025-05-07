@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aj-Xocan
-- 👀 I’m interested in ... GameDev and App Building
+- 👀 I’m interested in ... GameDev and Website Building
 
 <!---
 Aj-Xocan/Aj-Xocan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
